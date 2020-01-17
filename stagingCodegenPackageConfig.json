@@ -52,11 +52,11 @@
       "codeGeneratorVersion": "0.6.8",
       "iotWorkbenchMinimalVersion": "0.10.17",
       "codeGeneratorLocation": {
-        "win32Md5": "8367deb0cfff5127b178aa50dc18aad1",
+        "win32Md5": "e342ccf9731f5d95df79d543734d9162",
         "win32PackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.8-rc/pnp-codegen-win-x64-0.6.8-rc.zip",
-        "macOSMd5": "a59bcd5fb8f685870a6ee1c94e936321",
+        "macOSMd5": "9103dcbfaaf408b7ffdee3ca4a539a7e",
         "macOSPackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.8-rc/pnp-codegen-osx-x64-0.6.8-rc.zip",
-        "ubuntuMd5": "019e91ee0709838c3d957ff123ab09a2",
+        "ubuntuMd5": "5ffda6f232846dad73fb1a5d99bd0bfd",
         "ubuntuPackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.8-rc/pnp-codegen-ubuntu-x64-0.6.8-rc.zip"
       }
     }
