@@ -59,6 +59,18 @@
         "ubuntuMd5": "5ffda6f232846dad73fb1a5d99bd0bfd",
         "ubuntuPackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.8-rc/pnp-codegen-ubuntu-x64-0.6.8-rc.zip"
       }
+    },
+     {
+      "codeGeneratorVersion": "0.6.9",
+      "iotWorkbenchMinimalVersion": "0.10.17",
+      "codeGeneratorLocation": {
+        "win32Md5": "4dc59a019475c652e530bc202023a76a",
+        "win32PackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.9-rc/pnp-codegen-win-x64-0.6.9-rc.zip",
+        "macOSMd5": "ac7504c0b4ce48c5e088d9c9d5cea736",
+        "macOSPackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.9-rc/pnp-codegen-osx-x64-0.6.9-rc.zip",
+        "ubuntuMd5": "a7a61f824ac0b32971a15374dd7d70ab",
+        "ubuntuPackageUrl": "https://github.com/VSChina/PnPCodeGen/releases/download/v0.6.9-rc/pnp-codegen-ubuntu-x64-0.6.9-rc.zip"
+      }
     }
   ]
 }
